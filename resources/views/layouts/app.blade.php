@@ -21,7 +21,7 @@
             </div>
         </nav>
 
-        <div class="container">
+        <div class="uk-container" uk-container>
             @yield('content')
         </div>
 
